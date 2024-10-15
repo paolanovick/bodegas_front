@@ -1,0 +1,23 @@
+.vinos-grid {
+    gap: 2rem;
+  }
+  
+  .vino-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  .vino-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  
+  .vino-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .vino-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
