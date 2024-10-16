@@ -15,10 +15,10 @@ const HomePage = () => {
                 >
                     <div style={{ marginBottom: '2rem' }}>
                     <Image 
-                        src="/assets/pao.jpg"  
-                        alt="Foto de la alumna" 
-                        width="150" 
-                        style={{ borderRadius: '50%', boxShadow: '0 4px 10px rgba(0,0,0,0.2)' }} 
+                        src="/assets/BP_300.png"  
+                        alt="FBodegas point" 
+                        width="300" 
+                       
                         preview 
                     />
 
